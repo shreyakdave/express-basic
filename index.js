@@ -119,7 +119,6 @@ app.post('/login', (req, res) => {
             }
         })
     }
-    // smishra@deqode.com
 
     // Return reponse
     return res.json({
